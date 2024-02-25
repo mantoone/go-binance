@@ -1,6 +1,8 @@
 ### go-binance
 
-A Golang SDK for [binance](https://accounts.binance.com/register?ref=PGDFCE46) API.
+A fork
+
+A Golang SDK for [binance](https://www.binance.com) API.
 
 [![Build Status](https://travis-ci.org/mantoone/go-binance.svg?branch=master)](https://travis-ci.org/mantoone/go-binance)
 [![GoDoc](https://godoc.org/github.com/mantoone/go-binance?status.svg)](https://godoc.org/github.com/mantoone/go-binance)
